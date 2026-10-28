@@ -1,0 +1,10 @@
+{
+  "zones": [
+    {
+      "name": "Ladder Zone",
+      "type": "high_risk",
+      "polygon": [[100, 100], [600, 100], [600, 500], [100, 500]],
+      "required_ppe": ["Hardhat", "Safety Vest"]
+    }
+  ]
+}

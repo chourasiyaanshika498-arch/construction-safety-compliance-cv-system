@@ -1,0 +1,24 @@
+risk_weights:
+  NO-Hardhat: 30
+  NO-Safety Vest: 25
+  NO-Mask: 15
+  NO-Gloves: 10
+  NO-Goggles: 10
+  Fall-Detected: 100
+
+risk_levels:
+  safe:
+    min: 0
+    max: 0
+  low:
+    min: 1
+    max: 25
+  medium:
+    min: 26
+    max: 60
+  high:
+    min: 61
+    max: 99
+  critical:
+    min: 100
+    max: 999

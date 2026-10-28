@@ -1,0 +1,46 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+.env
+
+# Large datasets and training outputs
+runs/
+results/**/*.mp4
+results/**/*.avi
+results/**/*.mov
+results/**/*.mkv
+results/**/*.json
+reports/*.json
+reports/*.csv
+reports/*.md
+
+# Model artifacts
+*.pt
+*.pth
+*.onnx
+*.engine
+*.zip
+
+# Local editor/system files
+.DS_Store
+.vscode/
+
+# Local runtime artifacts
+backups/
+results/
+runs/
+*.cache
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+.DS_Store
+
+# Large local data
+Personal Protective Equipment - Combined Model.v1i.yolov8/
+
+# Keep final lightweight trained model for demo usage
+!models/
+!models/ppe_yolov8n_100e_reasonable_best.pt

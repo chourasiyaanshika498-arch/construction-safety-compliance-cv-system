@@ -1,0 +1,22 @@
+path: /workspace/Personal Protective Equipment - Combined Model.v1i.yolov8
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 14
+names:
+  - Fall-Detected
+  - Gloves
+  - Goggles
+  - Hardhat
+  - Ladder
+  - Mask
+  - NO-Gloves
+  - NO-Goggles
+  - NO-Hardhat
+  - NO-Mask
+  - NO-Safety Vest
+  - Person
+  - Safety Cone
+  - Safety Vest

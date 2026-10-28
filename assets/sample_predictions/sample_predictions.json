@@ -1,0 +1,542 @@
+[
+  {
+    "image": "assets/sample_predictions/sample_01_-1003-_png_jpg.rf.3b2aff223e32548190c03647e3f9aa46.jpg",
+    "source": "/workspace/Personal Protective Equipment - Combined Model.v1i.yolov8/test/images/-1003-_png_jpg.rf.3b2aff223e32548190c03647e3f9aa46.jpg",
+    "num_detections": 3,
+    "detections": [
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.8132,
+        "bbox_xyxy": [
+          366.44,
+          272.91,
+          510.48,
+          386.34
+        ]
+      },
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.7765,
+        "bbox_xyxy": [
+          118.56,
+          261.21,
+          277.87,
+          389.71
+        ]
+      },
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.5839,
+        "bbox_xyxy": [
+          309.29,
+          127.41,
+          339.49,
+          156.73
+        ]
+      }
+    ]
+  },
+  {
+    "image": "assets/sample_predictions/sample_02_-1006-_png_jpg.rf.b1183b2680f15b1a98618ac3590d5126.jpg",
+    "source": "/workspace/Personal Protective Equipment - Combined Model.v1i.yolov8/test/images/-1006-_png_jpg.rf.b1183b2680f15b1a98618ac3590d5126.jpg",
+    "num_detections": 4,
+    "detections": [
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.8152,
+        "bbox_xyxy": [
+          130.88,
+          176.25,
+          225.91,
+          258.97
+        ]
+      },
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.7608,
+        "bbox_xyxy": [
+          386.82,
+          216.03,
+          443.23,
+          280.13
+        ]
+      },
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.7284,
+        "bbox_xyxy": [
+          27.53,
+          242.37,
+          80.45,
+          284.39
+        ]
+      },
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.5091,
+        "bbox_xyxy": [
+          212.49,
+          257.01,
+          256.05,
+          292.63
+        ]
+      }
+    ]
+  },
+  {
+    "image": "assets/sample_predictions/sample_03_-1012-_png_jpg.rf.f8907b54bc3c8c193189f285cc85c5de.jpg",
+    "source": "/workspace/Personal Protective Equipment - Combined Model.v1i.yolov8/test/images/-1012-_png_jpg.rf.f8907b54bc3c8c193189f285cc85c5de.jpg",
+    "num_detections": 2,
+    "detections": [
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.8069,
+        "bbox_xyxy": [
+          126.9,
+          163.61,
+          195.52,
+          225.54
+        ]
+      },
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.8015,
+        "bbox_xyxy": [
+          287.82,
+          230.63,
+          374.99,
+          315.98
+        ]
+      }
+    ]
+  },
+  {
+    "image": "assets/sample_predictions/sample_04_-1016-_png_jpg.rf.5fb672d69dfde360fe9389f6cb793e89.jpg",
+    "source": "/workspace/Personal Protective Equipment - Combined Model.v1i.yolov8/test/images/-1016-_png_jpg.rf.5fb672d69dfde360fe9389f6cb793e89.jpg",
+    "num_detections": 2,
+    "detections": [
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.567,
+        "bbox_xyxy": [
+          357.1,
+          211.72,
+          400.77,
+          254.7
+        ]
+      },
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.3908,
+        "bbox_xyxy": [
+          449.26,
+          202.64,
+          495.98,
+          242.64
+        ]
+      }
+    ]
+  },
+  {
+    "image": "assets/sample_predictions/sample_05_-1037-_png_jpg.rf.69b35299689a269de1a07b3aa97cb216.jpg",
+    "source": "/workspace/Personal Protective Equipment - Combined Model.v1i.yolov8/test/images/-1037-_png_jpg.rf.69b35299689a269de1a07b3aa97cb216.jpg",
+    "num_detections": 2,
+    "detections": [
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.7766,
+        "bbox_xyxy": [
+          269.59,
+          182.6,
+          350.32,
+          253.08
+        ]
+      },
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.7168,
+        "bbox_xyxy": [
+          198.4,
+          192.31,
+          268.04,
+          247.59
+        ]
+      }
+    ]
+  },
+  {
+    "image": "assets/sample_predictions/sample_06_-1039-_png_jpg.rf.363fff79c6a0981fd2b4d4476426b1da.jpg",
+    "source": "/workspace/Personal Protective Equipment - Combined Model.v1i.yolov8/test/images/-1039-_png_jpg.rf.363fff79c6a0981fd2b4d4476426b1da.jpg",
+    "num_detections": 8,
+    "detections": [
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.7045,
+        "bbox_xyxy": [
+          321.08,
+          68.68,
+          352.67,
+          95.8
+        ]
+      },
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.6768,
+        "bbox_xyxy": [
+          103.49,
+          69.01,
+          140.16,
+          101.37
+        ]
+      },
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.6505,
+        "bbox_xyxy": [
+          149.51,
+          84.87,
+          176.99,
+          111.89
+        ]
+      },
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.5617,
+        "bbox_xyxy": [
+          270.16,
+          102.5,
+          299.15,
+          127.8
+        ]
+      },
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.554,
+        "bbox_xyxy": [
+          471.12,
+          125.57,
+          490.01,
+          143.35
+        ]
+      },
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.4429,
+        "bbox_xyxy": [
+          353.26,
+          102.18,
+          373.47,
+          120.28
+        ]
+      },
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.3802,
+        "bbox_xyxy": [
+          0.0,
+          67.46,
+          11.28,
+          104.1
+        ]
+      },
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.293,
+        "bbox_xyxy": [
+          262.69,
+          104.24,
+          294.95,
+          129.28
+        ]
+      }
+    ]
+  },
+  {
+    "image": "assets/sample_predictions/sample_07_-104-_png_jpg.rf.76b94149d19d537f8d6a9132e2014de5.jpg",
+    "source": "/workspace/Personal Protective Equipment - Combined Model.v1i.yolov8/test/images/-104-_png_jpg.rf.76b94149d19d537f8d6a9132e2014de5.jpg",
+    "num_detections": 1,
+    "detections": [
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.6929,
+        "bbox_xyxy": [
+          345.47,
+          317.26,
+          385.05,
+          364.32
+        ]
+      }
+    ]
+  },
+  {
+    "image": "assets/sample_predictions/sample_08_-1045-_png_jpg.rf.5dc2673e78bced38232fd26a5fe4b2cc.jpg",
+    "source": "/workspace/Personal Protective Equipment - Combined Model.v1i.yolov8/test/images/-1045-_png_jpg.rf.5dc2673e78bced38232fd26a5fe4b2cc.jpg",
+    "num_detections": 4,
+    "detections": [
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.7426,
+        "bbox_xyxy": [
+          388.69,
+          219.31,
+          455.48,
+          270.81
+        ]
+      },
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.6778,
+        "bbox_xyxy": [
+          317.57,
+          228.27,
+          356.91,
+          263.64
+        ]
+      },
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.6672,
+        "bbox_xyxy": [
+          282.7,
+          256.93,
+          329.38,
+          294.71
+        ]
+      },
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.4414,
+        "bbox_xyxy": [
+          248.91,
+          262.02,
+          279.55,
+          291.41
+        ]
+      }
+    ]
+  },
+  {
+    "image": "assets/sample_predictions/sample_09_-1051-_png_jpg.rf.783e169c2a542a63244b8994e129d9d5.jpg",
+    "source": "/workspace/Personal Protective Equipment - Combined Model.v1i.yolov8/test/images/-1051-_png_jpg.rf.783e169c2a542a63244b8994e129d9d5.jpg",
+    "num_detections": 2,
+    "detections": [
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.8426,
+        "bbox_xyxy": [
+          117.65,
+          134.38,
+          247.7,
+          229.54
+        ]
+      },
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.8128,
+        "bbox_xyxy": [
+          275.15,
+          144.54,
+          384.85,
+          231.56
+        ]
+      }
+    ]
+  },
+  {
+    "image": "assets/sample_predictions/sample_10_-1052-_png_jpg.rf.8a90e9e47c6d3dda66fc09fc25cbc72b.jpg",
+    "source": "/workspace/Personal Protective Equipment - Combined Model.v1i.yolov8/test/images/-1052-_png_jpg.rf.8a90e9e47c6d3dda66fc09fc25cbc72b.jpg",
+    "num_detections": 3,
+    "detections": [
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.7936,
+        "bbox_xyxy": [
+          216.16,
+          190.72,
+          299.89,
+          261.6
+        ]
+      },
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.6049,
+        "bbox_xyxy": [
+          49.04,
+          195.25,
+          93.62,
+          236.29
+        ]
+      },
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.5265,
+        "bbox_xyxy": [
+          14.55,
+          199.87,
+          53.86,
+          236.05
+        ]
+      }
+    ]
+  },
+  {
+    "image": "assets/sample_predictions/sample_11_-1056-_png_jpg.rf.404b8537b4b884a388731ce608f035a5.jpg",
+    "source": "/workspace/Personal Protective Equipment - Combined Model.v1i.yolov8/test/images/-1056-_png_jpg.rf.404b8537b4b884a388731ce608f035a5.jpg",
+    "num_detections": 2,
+    "detections": [
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.8268,
+        "bbox_xyxy": [
+          247.79,
+          117.8,
+          355.76,
+          231.12
+        ]
+      },
+      {
+        "source": "image0.jpg",
+        "class_id": 8,
+        "class_name": "NO-Hardhat",
+        "confidence": 0.4319,
+        "bbox_xyxy": [
+          581.91,
+          188.54,
+          640.0,
+          336.08
+        ]
+      }
+    ]
+  },
+  {
+    "image": "assets/sample_predictions/sample_12_-1061-_png_jpg.rf.0f857b7243b4f972f028e88c22d3777d.jpg",
+    "source": "/workspace/Personal Protective Equipment - Combined Model.v1i.yolov8/test/images/-1061-_png_jpg.rf.0f857b7243b4f972f028e88c22d3777d.jpg",
+    "num_detections": 5,
+    "detections": [
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.7233,
+        "bbox_xyxy": [
+          347.82,
+          181.77,
+          404.79,
+          223.77
+        ]
+      },
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.6911,
+        "bbox_xyxy": [
+          92.87,
+          209.63,
+          143.29,
+          257.55
+        ]
+      },
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.6105,
+        "bbox_xyxy": [
+          588.57,
+          223.64,
+          612.75,
+          248.1
+        ]
+      },
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.5616,
+        "bbox_xyxy": [
+          421.35,
+          223.89,
+          451.58,
+          251.98
+        ]
+      },
+      {
+        "source": "image0.jpg",
+        "class_id": 3,
+        "class_name": "Hardhat",
+        "confidence": 0.302,
+        "bbox_xyxy": [
+          263.28,
+          194.71,
+          315.13,
+          232.94
+        ]
+      }
+    ]
+  }
+]

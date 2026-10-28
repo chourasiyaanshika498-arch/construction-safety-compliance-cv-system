@@ -1,0 +1,14 @@
+# Core application and model packages.
+# Torch/Torchvision are intentionally not pinned here because the GPU Docker image already provides CUDA-enabled builds.
+ultralytics
+opencv-python
+numpy
+pandas
+pyyaml
+pillow
+matplotlib
+tqdm
+pytest
+streamlit
+streamlit-webrtc
+av
