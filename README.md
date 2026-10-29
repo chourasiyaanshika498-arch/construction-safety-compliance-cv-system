@@ -208,11 +208,6 @@ This project is a **safety-assistance prototype**, not a certified safety system
 ![Compliance Report](assets/screenshots/compliance-report.png)
 
 
-## 👨‍💻 Author
-
-**Rajanish Kumrawat**
-
-GitHub: [@rajanish-8](https://github.com/rajanish-8)
 
 ---
 
